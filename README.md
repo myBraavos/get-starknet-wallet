@@ -1,6 +1,7 @@
 # get-starknet
 
 [![npm](https://img.shields.io/npm/v/get-starknet.svg)](https://www.npmjs.com/package/get-starknet)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/starknet-io/get-starknet/blob/master/LICENSE)
 
 ## Goals
 
